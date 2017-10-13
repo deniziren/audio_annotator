@@ -33,6 +33,11 @@ span.caption {
   bottom: 0;
   left: 0;
 }
+.progress_bottom{
+	position: float;
+	padding-top: 20px;
+	width: 20%; 
+}
 .content_area{
 	width:80%;
 	min-height: 200px;
